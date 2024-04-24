@@ -1,0 +1,18 @@
+Refrence:-https://preview.colorlib.com/#theconference
+
+
+Color:-
+
+primary-color:#2a71df;
+secondary-color:#f3f7f9;
+text-head-color:#0009;
+text-content-color:#888888;
+light-color:#028fffb3;
+dark-color:#0c081d;
+dark-black-color:#050210;
+
+
+Font-Family:-
+
+heading-font:Raleway;
+content-font:Fira Sans Condensed;
